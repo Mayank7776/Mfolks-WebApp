@@ -45,7 +45,7 @@ const Navbar = () => {
           </Link>
         </div>
         {/* Center Navigation */}
-        <div className="hidden lg:flex space-x-6 lg:ml-30">
+        <div className="hidden lg:flex space-x-6 lg:ml-35">
           <Link
             to="#"
             className="text-gray-700 hover:text-black text-sm font-medium uppercase"
