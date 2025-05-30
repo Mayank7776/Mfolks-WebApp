@@ -83,7 +83,7 @@ const ProductCart = (props) => {
         <div className="flex justify-start">
           <button
             onClick={handleAddToCart}
-            className="flex flex-row items-center justify-center w-[120px] text-white bg-[#60cabaf1] rounded-md py-2 text-sm hover:bg-[#60a79df1] mt-4"
+            className="flex flex-row items-center justify-center w-[120px] text-white bg-[#60cabaf1] rounded-md py-2 text-sm hover:bg-[#467871f1] mt-4"
           >
             <HiOutlineShoppingCart className="h-5" /> Add To Cart
           </button>
